@@ -1,6 +1,7 @@
 # CRUDOUTRA-PHP
 
 **Written in core PHP.
+
 No framework or other third party tool used.**
 
 
