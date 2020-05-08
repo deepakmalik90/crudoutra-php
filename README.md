@@ -1,6 +1,7 @@
 # CRUDOUTRA-PHP
 
 **Written in core PHP. No framework or other third party tool used.**
+---------------------------------------------------------------------
 
 
 A very simple application for CRUD operations using the REST API.
